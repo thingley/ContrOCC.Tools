@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TPH.ContrOCC.Tools.ProtocolSync.AppendDividerToFiles": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\TREVOR\\WORK\\_ContrOCC 11.1 to 12.0\\Database\\Scripts\\ProtocolSync\" -d \"/* SEPARATOR */\""
+    }
+  }
+}
