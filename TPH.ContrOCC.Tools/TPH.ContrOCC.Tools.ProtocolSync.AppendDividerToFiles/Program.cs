@@ -7,7 +7,7 @@ namespace TPH.ContrOCC.Tools.ProtocolSync.AppendDividerToFiles
 {
 	class Program
 	{
-		const string DEFAULT_DIVIDER = "/* ¬¬¬¬¬¬¬¬¬¬ */";
+		const string DEFAULT_DIVIDER = "/* DIVIDER */";
 
 		static void Main(string[] args)
 		{

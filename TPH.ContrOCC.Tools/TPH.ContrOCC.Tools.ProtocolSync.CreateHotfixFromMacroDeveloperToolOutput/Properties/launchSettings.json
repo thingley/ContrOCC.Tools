@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TPH.ContrOCC.Tools.ProtocolSync.CreateHotfixFromMacroDeveloperToolOutput": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\temp\\MacroDevToolOutput.txt\" \"D:\\temp\\MacroDevToolOutputMODIFIED.txt\"  \"/* DIVIDER */\" -o"
+    }
+  }
+}
