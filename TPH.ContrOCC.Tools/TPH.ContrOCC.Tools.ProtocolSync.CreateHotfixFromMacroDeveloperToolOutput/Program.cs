@@ -19,6 +19,7 @@ namespace TPH.ContrOCC.Tools.ProtocolSync.CreateHotfixFromMacroDeveloperToolOutp
 			var outputFileArgument = app.Argument("OutputFile", "The path and filename of the file where output will be written to");
 			var dividerArgument = app.Argument("Divider", "String used to divide discrete blocks of SQL");
 			var overwriteOption = app.Option("-o|--overwrite", "Flag indicating that existing file matching the output file should be overwritten", CLU.CommandOptionType.NoValue);
+			app.HelpOption("-?|-h|--help");
 
 			app.OnExecute(() =>
 			{
